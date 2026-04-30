@@ -37,7 +37,7 @@ node server.js
 npm run dev
 ```
 
-Backend runs on **http://localhost:4000**
+Backend runs on file:///C:/Users/yenum/Desktop/OSporject2/index.html
 
 ### 3. Open the frontend
 Open `frontend/public/index.html` in your browser.
